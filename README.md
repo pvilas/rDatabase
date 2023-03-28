@@ -1,5 +1,7 @@
 # rDatabase - A very lightweight RediSearch interface with foreign keys and input validation
 
+Please, use [redis-om](https://github.com/redis/redis-om-python). This project is discontinued. 
+
 With rDatabase you can **validate**, **save**, **delete**, **query** and **paginate** dictionaries. Moreover, it helps you to maintain the database **integrity**.  It uses the [**RediSearch**](https://oss.redislabs.com/redisearch/) module.
 
 Other facilities are:
